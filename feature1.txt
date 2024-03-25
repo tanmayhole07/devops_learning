@@ -1,1 +1,3 @@
 This is new feature 1
+
+modified feature 1
